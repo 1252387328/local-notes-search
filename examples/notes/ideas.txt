@@ -1,0 +1,1 @@
+Keep the first version small and easy to test.
